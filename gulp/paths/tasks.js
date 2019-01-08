@@ -11,8 +11,11 @@ module.exports = [
   './gulp/tasks/css.foundation.js',
   './gulp/tasks/js.process.js',
   './gulp/tasks/js.lint.js',
-  './gulp/tasks/copy.image.js',
+  './gulp/tasks/copy.js',
   './gulp/tasks/sprite.svg.js',
   './gulp/tasks/tinypng.js',
+  './gulp/tasks/zip.js',
+  './gulp/tasks/sftp.js',
+  './gulp/tasks/size.js',
 ];
 
