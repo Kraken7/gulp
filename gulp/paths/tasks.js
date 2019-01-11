@@ -17,5 +17,6 @@ module.exports = [
   './gulp/tasks/zip.js',
   './gulp/tasks/sftp.js',
   './gulp/tasks/size.js',
+  './gulp/tasks/sprite.img.js',
 ];
 
